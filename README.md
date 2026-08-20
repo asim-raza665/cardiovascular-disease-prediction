@@ -30,8 +30,6 @@ The Random Forest model achieved the best overall performance among the three cl
 pip install pandas matplotlib seaborn scikit-learn joblib
 python cardiovascular_prediction.py
 ```
-
 ## Author
-**Asim Raza**
-CSC-102L Programming Fundamentals — Fall 2025
-UET Lahore, Faisalabad Campus
+Asim Raza
+GitHub: https://github.com/asim-raza665
