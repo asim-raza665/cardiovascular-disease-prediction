@@ -1,7 +1,7 @@
 # ============================================================
 # Cardiovascular Disease Prediction Using Lifestyle and Health Data
 # CSC-102L Programming Fundamentals - Fall 2025
-# Muhammad Umair (2025-BSCPE-134)
+#Asim Raza(2025-BSCPE-138)
 # Instructor: Dr. Bilal Ahmad
 # UET Lahore, Faisalabad Campus
 # ============================================================
